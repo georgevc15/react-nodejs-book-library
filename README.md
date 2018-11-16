@@ -1,16 +1,11 @@
 ## Synopsis
-Online book store that fetches books stored in a Mongo DB database. All the books are administrated from an admin area accessible  only to the administrators (login is required). Ejs is used as template engine
-
-
-## Motivation
-A simple project that shows how to build a web app using only node.js. The app can be found here: https://evening-bayou-37419.herokuapp.com/
+Online book store that fetches books stored in a Mongo DB database. Node.js/express is used for the backend to generate the RestFul apis.  ReactJs is used on the client side
 
 
 ## Installation
-Run npm start.
+Run npm start under root folder for lunching nodejs server - http://localhost:5000
+Run npm start under /client folder to lunch ReactJS - http://localhost:3000
 
-
-## Tests
 
 
 
